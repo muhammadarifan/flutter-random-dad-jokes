@@ -30,7 +30,7 @@ dev_dependencies:
   very_good_analysis: ^5.0.0
   injectable_generator:
   build_runner:
-  retrofit_generator: '>=5.0.0 <6.0.0'
+  retrofit_generator: ^7.0.8
   json_serializable: ^6.7.1
   freezed: ^2.4.1
 
